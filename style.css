@@ -1,0 +1,24 @@
+.container header {
+    background-color: #B47D57;
+}
+.container #hero {
+    background-image: url(images/sky_striker_ace___shizuku_2nd_by_thehungtd_dfg058e.png);
+}
+.container #about {
+    background-image: -webkit-repeating-linear-gradient(270deg,rgba(223,251,255,1.00) 0%,rgba(210,244,249,1.00) 100%,rgba(163,219,229,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-repeating-linear-gradient(270deg,rgba(223,251,255,1.00) 0%,rgba(210,244,249,1.00) 100%,rgba(163,219,229,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-repeating-linear-gradient(270deg,rgba(223,251,255,1.00) 0%,rgba(210,244,249,1.00) 100%,rgba(163,219,229,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: repeating-linear-gradient(180deg,rgba(223,251,255,1.00) 0%,rgba(210,244,249,1.00) 100%,rgba(163,219,229,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
+.container .gallery {
+    background-image: -webkit-repeating-linear-gradient(270deg,rgba(215,246,251,1.00) 0%,rgba(217,247,252,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-repeating-linear-gradient(270deg,rgba(215,246,251,1.00) 0%,rgba(217,247,252,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-repeating-linear-gradient(270deg,rgba(215,246,251,1.00) 0%,rgba(217,247,252,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: repeating-linear-gradient(180deg,rgba(215,246,251,1.00) 0%,rgba(217,247,252,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
+
+
+
+.container header nav {
+    background-color: #B47D57;
+}
